@@ -94,12 +94,13 @@ a {
 /* FOOTER */
 
 .attribution {
+  color: var(--violet);
   font-size: 11px;
   text-align: center;
-  margin-top: 10px;
+  margin-top: 80px;
 }
 
 .attribution a {
   color: hsl(228, 45%, 44%);
-  margin-top: 10px;
+  margin-top: 80px;
 }
